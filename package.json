@@ -1,9 +1,9 @@
 {
-  "name": "camo",
-  "version": "0.12.3",
+  "name": "camo-kon",
+  "version": "0.2.0",
   "description": "A class-based ES6 ODM for Mongo-like databases.",
   "author": {
-    "name": "Scott Robinson",
+    "name": "Scott Robinson(modified by Dmitry Konovenschi)",
     "email": "s.w.robinson@gmail.com",
     "url": "http://stackabuse.com"
   },
@@ -22,10 +22,10 @@
     "query",
     "db"
   ],
-  "homepage": "https://github.com/scottwrobinson/camo",
+  "homepage": "https://github.com/dkonovenschi/camo",
   "repository": {
     "type": "git",
-    "url": "git@github.com:scottwrobinson/camo.git"
+    "url": "git@github.com:dkonovenschi/camo.git"
   },
   "license": "MIT",
   "scripts": {
